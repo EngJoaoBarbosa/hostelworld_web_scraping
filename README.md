@@ -30,6 +30,8 @@ Estrutura do Dataset Consolidado (dados_hostelworld.csv):
 - facilities: Lista formatada das categorias e serviços/comodidades oferecidos pela propriedade.
 
 ## 3. Fluxo de Dados (ELT / Extração e Tratamento)
+<img alt="image" src="https://github.com/EngJoaoBarbosa/hostelworld_web_scraping/blob/adb42505b53d17767ab27127e635b6a7885b1b18/fluxo-passos.jpeg"/>
+
 #### 1º passo - Requisição do Perfil da Propriedade:
 Consulta o endpoint de propriedades usando id_prop com cabeçalho User-Agent customizado.
 
